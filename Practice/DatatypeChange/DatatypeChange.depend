@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656318628 source:e:\programming\practice\datatypechange\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
